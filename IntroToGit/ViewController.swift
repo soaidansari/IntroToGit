@@ -11,7 +11,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("test print 23 Feb 2024")
+        print("test print 23 Feb 202412")
+        view.backgroundColor = .red
+        view.backgroundColor = .green
         // Do any additional setup after loading the view.
     }
 
