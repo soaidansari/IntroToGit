@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("test print 23 Feb 2024")
         // Do any additional setup after loading the view.
     }
 
