@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         print("test print 23 Feb 202412")
         view.backgroundColor = .red
         view.backgroundColor = .green
+        view.backgroundColor = .blue
         // Do any additional setup after loading the view.
     }
 
